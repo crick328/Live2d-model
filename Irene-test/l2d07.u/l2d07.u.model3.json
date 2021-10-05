@@ -24,6 +24,9 @@
           "File": "motions/Mgirl07_tianxiao_a.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_sajiao_a.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_motouweixiao.motion3.json"
         },
         {
@@ -39,6 +42,9 @@
           "File": "motions/Mgirl07_keai_a.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_motouxiao_a.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_tiaoxizhuangzhizuo.motion3.json"
         },
         {
@@ -48,16 +54,37 @@
           "File": "motions/Mgirl07_dahaqian_c.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_stand_a.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_nu.motion3.json"
         },
         {
           "File": "motions/Mgirl07_touteng_c.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_dazhaohu_a.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_keai_a.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_tuoyeyihuo.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_stand_c.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_tiaoxizhuangzhi_a.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_sajiao_a.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_sikao_a.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_tianxiao_a.motion3.json"
         },
         {
           "File": "motions/Mgirl07_qidao.motion3.json"
@@ -90,10 +117,25 @@
           "File": "motions/Mgirl07_tiaoxizhuangzhi.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_stand.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_yansusikao.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_ganga_c.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_stand.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_yihuo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_qinwenshizijia_a.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_jingxi_a.motion3.json"
         },
         {
           "File": "motions/Mgirl07_touxiao.motion3.json"
@@ -117,6 +159,18 @@
           "File": "motions/Mgirl07_tuoyehaixiu_a.motion3.json"
         },
         {
+          "File": "motions/Mgirl07_tuoyeyihuo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_mimididian.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_dahaqian_c.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_dazhaohu_a.motion3.json"
+        },
+        {
           "File": "motions/Mgirl07_kuazhang.motion3.json"
         },
         {
@@ -128,8 +182,39 @@
         {
           "File": "motions/Mgirl07_baonu_c.motion3.json"
         }
+      ],
+      "Idle": [
+        {
+          "File": "motions/Mgirl07_stand_c.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl07_stand_a.motion3.json"
+        }
+      ],
+      "Tap": [
+        {
+          "File": "motions/Mgirl07_dazhaohu_a.motion3.json",
+          "Sound": ""
+        },
+        {
+          "File": "motions/Mgirl07_sajiao_a.motion3.json",
+          "Sound": ""
+        }
       ]
     }
   },
-  "Groups": []
+  "Groups": [],
+  "HitAreas": [
+    {
+      "Id": "HitArea",
+      "Name": "Head"
+    },
+    {
+      "Id": "HitArea2",
+      "Name": "Body"
+    }
+  ]
 }
